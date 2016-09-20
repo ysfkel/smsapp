@@ -1,0 +1,10 @@
+C:\Users\Yusuf\documents\visual studio 2015\Projects\MySmsSender\MySmsSender\MySmsSender.ServiceModel\bin\Debug\MySmsSender.ServiceModel.dll
+C:\Users\Yusuf\documents\visual studio 2015\Projects\MySmsSender\MySmsSender\MySmsSender.ServiceModel\bin\Debug\MySmsSender.ServiceModel.pdb
+C:\Users\Yusuf\documents\visual studio 2015\Projects\MySmsSender\MySmsSender\MySmsSender.ServiceModel\bin\Debug\ServiceStack.Common.dll
+C:\Users\Yusuf\documents\visual studio 2015\Projects\MySmsSender\MySmsSender\MySmsSender.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Yusuf\documents\visual studio 2015\Projects\MySmsSender\MySmsSender\MySmsSender.ServiceModel\bin\Debug\ServiceStack.Text.dll
+C:\Users\Yusuf\documents\visual studio 2015\Projects\MySmsSender\MySmsSender\MySmsSender.ServiceModel\bin\Debug\ServiceStack.Common.xml
+C:\Users\Yusuf\documents\visual studio 2015\Projects\MySmsSender\MySmsSender\MySmsSender.ServiceModel\bin\Debug\ServiceStack.Text.xml
+C:\Users\Yusuf\documents\visual studio 2015\Projects\MySmsSender\MySmsSender\MySmsSender.ServiceModel\obj\Debug\MySmsSender.ServiceModel.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf\documents\visual studio 2015\Projects\MySmsSender\MySmsSender\MySmsSender.ServiceModel\obj\Debug\MySmsSender.ServiceModel.dll
+C:\Users\Yusuf\documents\visual studio 2015\Projects\MySmsSender\MySmsSender\MySmsSender.ServiceModel\obj\Debug\MySmsSender.ServiceModel.pdb
