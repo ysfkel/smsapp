@@ -138,10 +138,10 @@
     <Content Include="www\app\account\js\resources\dataResource.js" />
     <Content Include="www\app\account\js\resources\view.js" />
     <Content Include="www\app\account\js\resources\viewResource.js" />
-    <Content Include="www\app\account\models\countryList.js" />
-    <Content Include="www\app\account\models\sentSMS.js" />
-    <Content Include="www\app\account\models\SMS.js" />
-    <Content Include="www\app\account\models\Statistics.js" />
+    <Content Include="www\app\account\js\models\countryList.js" />
+    <Content Include="www\app\account\js\models\sentSMS.js" />
+    <Content Include="www\app\account\js\models\SMS.js" />
+    <Content Include="www\app\account\js\models\Statistics.js" />
     <Content Include="www\app\account\templates\country-list.html" />
     <Content Include="www\app\account\templates\layout.html" />
     <Content Include="www\app\account\templates\sms-list.html" />
@@ -149,7 +149,7 @@
     <Content Include="www\app\account\templates\statistics.html" />
     <Content Include="www\app\app.js" />
     <Content Include="www\app\configs\grid.js" />
-    <Content Include="www\app\js\router.js" />
+    <Content Include="www\app\account\js\router.js" />
     <Content Include="www\app\modules\app.js" />
     <Content Include="www\app\repo\country.js" />
     <Content Include="www\app\repo\sentsms.js" />
